@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "D:\\New folder\\DatingApp\\DatingApp.Api\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "D:\\New folder\\DatingApp\\DatingApp.Api\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "D:\\New folder\\DatingApp\\DatingApp.Api\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "D:\\New folder\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "D:\\New folder\\DatingApp\\DatingApp.Api\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\Ns_piumal\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "D:\\New folder\\DatingApp\\DatingApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
