@@ -12436,33 +12436,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hasith\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Ns_piumal\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AL new\\dotnet\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "D:\\New folder\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "D:\\AL new\\dotnet\\DatingApp.API\\DatingApp.API.csproj",
-      "packagesPath": "C:\\Users\\Hasith\\.nuget\\packages\\",
-      "outputPath": "D:\\AL new\\dotnet\\DatingApp.API\\obj\\",
+      "projectPath": "D:\\New folder\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "packagesPath": "C:\\Users\\Ns_piumal\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hasith\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Ns_piumal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
